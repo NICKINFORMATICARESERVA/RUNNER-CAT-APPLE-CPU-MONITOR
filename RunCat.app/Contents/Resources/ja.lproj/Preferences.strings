@@ -1,0 +1,15 @@
+
+/* Class = "NSTabViewItem"; label = "System Info"; ObjectID = "7jn-9Y-Afz"; */
+"7jn-9Y-Afz.label" = "システム情報";
+
+/* Class = "NSTabViewItem"; label = "Registration"; ObjectID = "Diu-hQ-fAz"; */
+"Diu-hQ-fAz.label" = "登録";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "KV7-Dr-h3X"; */
+"KV7-Dr-h3X.label" = "一般";
+
+/* Class = "NSWindow"; title = "General"; ObjectID = "R4t-eU-vFG"; */
+"R4t-eU-vFG.title" = "一般";
+
+/* Class = "NSTabViewItem"; label = "Plugins"; ObjectID = "TMF-XO-Sqc"; */
+"TMF-XO-Sqc.label" = "プラグイン";
